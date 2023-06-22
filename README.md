@@ -16,14 +16,21 @@ To gain insights into the model's predictions, the predicted values are visualiz
 # Usage
 To use the model, follow these steps:
 
-Clone this repository: git clone https://github.com/your-username/malaria-detection.git
-Install the required dependencies: pip install tensorflow scikit-learn matplotlib
-Prepare your dataset or use the provided dataset in the appropriate format.
-Adjust the model architecture, hyperparameters, and data preprocessing if needed.
-Train the model using the provided code.
-Evaluate the model's performance using validation data.
-Visualize the predicted values and ground truth using the provided code.
-Iterate on the model and experiment with different configurations to improve performance.
+1. Clone this repository: git clone https://github.com/yemioyeleke/Malaria_Detection_CNN.git
+
+2. Install the required dependencies: pip install tensorflow scikit-learn matplotlib
+
+3. Prepare your dataset or use the provided dataset in the appropriate format.
+
+4. Adjust the model architecture, hyperparameters, and data preprocessing if needed.
+
+5. Train the model using the provided code.
+
+6. Evaluate the model's performance using validation data.
+
+7. Visualize the predicted values and ground truth using the provided code.
+
+8. Iterate on the model and experiment with different configurations to improve performance.
 
 # Conclusion
 This project demonstrates the development of a deep learning model for malaria detection based on a CNN architecture. Although the model achieved a reasonable accuracy with limited data, it has the potential for further improvement by utilizing a larger dataset and performing hyperparameter tuning. The visualizations of predicted values and ground truth provide insights into the model's performance and can aid in further analysis and refinement.
